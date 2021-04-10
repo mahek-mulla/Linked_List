@@ -1,5 +1,5 @@
 # Linked_List
-Singly Linked List, Doubly Linked List and Circular Linked List with add , delete , create and reverse operations.
+Singly Linked List, Doubly Linked List and (singly and doubly cll) Circular Linked List with add , delete , create and reverse operations.
 
 Hey everyone, 
 Data Structures is one of the most important topics.
